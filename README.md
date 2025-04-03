@@ -9,7 +9,7 @@
 - **Frontend**: React.js ⚛️ | HTML 🌐 | CSS 🎨  
 - **Backend**: Node.js 🏗️ | Express.js 🚀  
 - **Databases**: PostgreSQL 🐘 | MySQL 🏛️ | MongoDB 🍃
-- **ML Frameworks**: NumPy | Pandas| Scikit-Learn  
+- **ML Frameworks**: NumPy | Pandas | Scikit-Learn  
 - **Tools**: Git/GitHub 🛠️ | VS Code 🔵 | Postman 📬  
 
 ## 🔥 Projects  
@@ -56,7 +56,8 @@
 
 ## 🏆 Achievements  
 🏅 **SIH Finalist 2024** – *Smart India Hackathon finalist*  
-🔥 **500+ DSA problems solved** across platforms  
+🔥 **500+ DSA problems solved** across platforms
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/manasviii/)  
 📈 **Ranked 2587** in LeetCode Weekly Contest 399  
  
 
