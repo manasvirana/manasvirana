@@ -1,5 +1,5 @@
 # 🚀 Manasvi Singh  
-> 🎓**Pre Final Year| Software Engineering Enthusiast | Full-Stack & AI | DSA & Scalable Solutions**  
+> 🎓**Pre Final Year| Software Engineering Enthusiast | Full-Stack | DSA & Scalable Solutions**  
 
 ## 🏆 About Me  
 👨‍🎓 B.Tech student at **IIIT Nagpur**, specializing in **Electronics and Communication Engineering (IoT)**. Passionate about **building robust full-stack applications** and **solving complex problems** through efficient code.  
@@ -8,7 +8,8 @@
 - **Languages**: C++ 🚀 | Python 🐍 | JavaScript ⚡  
 - **Frontend**: React.js ⚛️ | HTML 🌐 | CSS 🎨  
 - **Backend**: Node.js 🏗️ | Express.js 🚀  
-- **Databases**: PostgreSQL 🐘 | MySQL 🏛️ | MongoDB 🍃  
+- **Databases**: PostgreSQL 🐘 | MySQL 🏛️ | MongoDB 🍃
+- **ML Frameworks**: NumPy | Pandas| Scikit-Learn  
 - **Tools**: Git/GitHub 🛠️ | VS Code 🔵 | Postman 📬  
 
 ## 🔥 Projects  
@@ -57,7 +58,7 @@
 🏅 **SIH Finalist 2024** – *Smart India Hackathon finalist*  
 🔥 **500+ DSA problems solved** across platforms  
 📈 **Ranked 2587** in LeetCode Weekly Contest 399  
-🥇 **1st Place** in CodeFiesta at Tantrafiesta IIIT Nagpur  
+ 
 
 ## 🎓 Education  
 **📍 Indian Institute of Information Technology Nagpur**  
