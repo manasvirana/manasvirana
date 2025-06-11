@@ -37,7 +37,16 @@
 - 🛡️ **API key** protection for admin-only routes  
 - 🧾 Real-time **seat booking** with **PostgreSQL transactions**  
 - 🧪 Fully tested using **Postman** for stable endpoints  
-- 🔗 **[Repo](https://github.com/manasvirana/IRCTC)**  
+- 🔗 **[Repo](https://github.com/manasvirana/IRCTC)**
+
+### 📺 YouTube Video Fetcher & Dashboard  
+*Real-time YouTube video search system with auto-fetching and a sortable frontend*  
+- **Tech**: FastAPI ⚡, PostgreSQL 🐘, React.js ⚛️, Vite 🚀  
+- 🔄 Auto-fetches **latest YouTube videos every 10s** using **rotating API keys**  
+- 📦 Stores video metadata in **PostgreSQL**, queried via a REST API  
+- 🔍 Frontend supports **pagination, debounce search, and sorting by date**  
+- 🧪 Built with **async SQLAlchemy**, tested via **httpx & Postman**  
+- 🔗 **[Repo](https://github.com/manasvirana/YotubeFetcher)**
 
 
 ### 🎬 Museflicks  
