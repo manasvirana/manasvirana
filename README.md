@@ -1,5 +1,5 @@
 # 🚀 Manasvi Singh  
-> 🎓**Pre Final Year| Software Engineering Enthusiast | Full-Stack | DSA & Scalable Solutions**  
+> 🎓**Final Year| Software Engineering Enthusiast | Full-Stack | DSA & Scalable Solutions**  
 
 ## 🏆 About Me  
 👨‍🎓 B.Tech student at **IIIT Nagpur**, specializing in **Electronics and Communication Engineering (IoT)**. Passionate about **building robust full-stack applications** and **solving complex problems** through efficient code.  
@@ -8,8 +8,7 @@
 - **Languages**: C++ 🚀 | Python 🐍 | JavaScript ⚡  
 - **Frontend**: React.js ⚛️ | HTML 🌐 | CSS 🎨  
 - **Backend**: Node.js 🏗️ | Express.js 🚀  
-- **Databases**: PostgreSQL 🐘 | MySQL 🏛️ | MongoDB 🍃
-- **ML Frameworks**: NumPy | Pandas | Scikit-Learn  
+- **Databases**: PostgreSQL 🐘 | MySQL 🏛️ | MongoDB 🍃 
 - **Tools**: Git/GitHub 🛠️ | VS Code 🔵 | Postman 📬  
 
 ## 🔥 Projects  
@@ -29,7 +28,17 @@
 - 💰 **Live tracking of 100+ cryptocurrencies** with **real-time updates every 10s**  
 - 📊 Integrated **CoinGecko API** for accurate market data  
 - 🎨 **Interactive charts** for better data analysis  
-- 🔗 **[Repo](https://github.com/manasvirana/CryptoTrack)** | **[Live Demo](https://cryptotracker-gules-seven.vercel.app/)**  
+- 🔗 **[Repo](https://github.com/manasvirana/CryptoTrack)** | **[Live Demo](https://cryptotracker-gules-seven.vercel.app/)**
+  
+ ### 🚆 IRCTC Railway Management System  
+*Backend for Train Booking & Seat Management System*  
+- **Tech**: Node.js, Express.js, PostgreSQL, Postman  
+- 🔐 JWT-based **authentication** with **role-based access control**  
+- 🛡️ **API key** protection for admin-only routes  
+- 🧾 Real-time **seat booking** with **PostgreSQL transactions**  
+- 🧪 Fully tested using **Postman** for stable endpoints  
+- 🔗 **[Repo](https://github.com/manasvirana/IRCTC)**  
+
 
 ### 🎬 Museflicks  
 *Movie Recommendation System*  
@@ -58,7 +67,7 @@
 🏅 **SIH Finalist 2024** – *Smart India Hackathon finalist*  
 🔥 **500+ DSA problems solved** across platforms
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/manasviii/)  
-📈 **Ranked 2587** in LeetCode Weekly Contest 399  
+
  
 
 ## 🎓 Education  
